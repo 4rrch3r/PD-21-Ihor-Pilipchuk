@@ -1,7 +1,0 @@
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\bin\Debug\Lab2_var9.exe.config
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\bin\Debug\Lab2_var9.exe
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\bin\Debug\Lab2_var9.pdb
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\obj\Debug\Lab2_var9.csprojAssemblyReference.cache
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\obj\Debug\Lab2_var9.csproj.CoreCompileInputs.cache
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\obj\Debug\Lab2_var9.exe
-C:\Users\Igor\source\repos\PD_21_Pilipchuk_Igor\Lab2_var9\obj\Debug\Lab2_var9.pdb

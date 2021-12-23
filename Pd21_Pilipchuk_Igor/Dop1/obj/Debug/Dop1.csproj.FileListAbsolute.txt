@@ -1,0 +1,7 @@
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\bin\Debug\Dop1.exe.config
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\bin\Debug\Dop1.exe
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\bin\Debug\Dop1.pdb
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\obj\Debug\Dop1.csprojAssemblyReference.cache
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\obj\Debug\Dop1.csproj.CoreCompileInputs.cache
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\obj\Debug\Dop1.exe
+C:\Users\Igor\source\repos\Pd21_Pilipchuk_Igor\Dop1\obj\Debug\Dop1.pdb
